@@ -1,0 +1,2 @@
+# Terraform playground
+This repo si supposed to be a safe a place to play around with terraform and learn a lot in the process. I'm using primarily ["terraform: up and running"](https://www.terraformupandrunning.com/) book as an initial guide.
